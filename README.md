@@ -96,8 +96,12 @@ Se possível:
 🐛 Encontrar e relatar issues
 
 ------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Contato: 
+[LinkdIn](https://www.linkedin.com/in/joabdeferreira/ "Joab Ferreira")
+[GitHub](https://github.com/joabdeferreira "GitHub")
+Email: joabdeferreira@gmail.com
+------------
+Projeto originalmente criado por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
 
 
